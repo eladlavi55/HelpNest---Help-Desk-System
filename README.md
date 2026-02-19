@@ -14,7 +14,7 @@
 - Session storage integration for workspace context
 
 ### **Backend Development**
-- **Node.js** + **Express** REST API with TypeScript
+- **Node.js** + **Express REST API** with TypeScript
 - **Prisma ORM** with PostgreSQL database
 - Secure **JWT authentication** (access + refresh token rotation)
 - **bcrypt** password hashing and **crypto** token generation
