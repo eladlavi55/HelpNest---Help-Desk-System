@@ -1,0 +1,15 @@
+# Dependencies & build
+node_modules
+.next
+dist
+
+# Env (secrets)
+.env
+.env.local
+.env*.local
+
+# Local dev artifacts (curl cookies, etc.)
+cookies.txt
+cookies_admin.txt
+cookies_member.txt
+login.json

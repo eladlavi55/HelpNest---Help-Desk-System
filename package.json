@@ -1,0 +1,11 @@
+{
+  "name": "support-project",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -r --parallel run dev",
+    "lint": "pnpm -r lint",
+    "typecheck": "pnpm -r typecheck",
+    "test": "pnpm -r test"
+  },
+  "devDependencies": {}
+}
