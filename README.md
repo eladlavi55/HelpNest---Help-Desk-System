@@ -1,7 +1,7 @@
 
 # HelpNest - Support Ticketing System | Full-Stack TypeScript Project
 
-> **Enterprise-grade multi-tenant support ticketing platform built with modern TypeScript stack**
+**Enterprise-grade multi-tenant support ticketing platform built with modern TypeScript stack**
 
 ## Project Overview
 
