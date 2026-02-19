@@ -1,11 +1,7 @@
-
 # HelpNest - Support Ticketing System | Full-Stack TypeScript Project
-
 **Enterprise-grade multi-tenant support ticketing platform built with modern TypeScript stack**
 
-## Project Overview
-
-A production-ready, full-stack support ticket management system featuring **role-based access control**, **JWT authentication**, **multi-tenancy**, and **real-time workspace switching**. Built with enterprise patterns including monorepo architecture, strict TypeScript, and comprehensive security measures.
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/e9107fc1-7698-4f35-8e46-48e53b7b57e0" />
 
 ## Tech Stack
 
@@ -39,9 +35,7 @@ A production-ready, full-stack support ticket management system featuring **role
 - SameSite cookie policy
 - Role-based authorization middleware
 - Secure credential storage (secrets never exposed to frontend)
-
----
-
+  
 ## Key Features
 
 ### **Multi-Tenant Architecture**
