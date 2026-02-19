@@ -7,11 +7,11 @@
 
 A production-ready, full-stack support ticket management system featuring **role-based access control**, **JWT authentication**, **multi-tenancy**, and **real-time workspace switching**. Built with enterprise patterns including monorepo architecture, strict TypeScript, and comprehensive security measures.
 
-## Technical Skills Demonstrated
+## Tech Stack
 
 ### **Frontend Development**
-- **Next.js 14** (App Router) with TypeScript strict mode
 - **React 18** with modern hooks and patterns
+- **Next.js 14** (App Router) with TypeScript strict mode
 - **Tailwind CSS** for responsive, mobile-first UI
 - Client-side routing and protected routes via middleware
 - Credential-based HTTP communication with cookie management
@@ -42,7 +42,7 @@ A production-ready, full-stack support ticket management system featuring **role
 
 ---
 
-## Key Features Implemented
+## Key Features
 
 ### **Multi-Tenant Architecture**
 - **Workspace-by-domain**: Auto-assigns users to company workspaces based on email domain
