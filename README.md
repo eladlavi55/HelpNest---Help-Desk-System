@@ -1,5 +1,5 @@
 # HelpNest - Support Ticketing System | Full-Stack TypeScript Project
-**Enterprise-grade multi-tenant support ticketing platform built with modern TypeScript stack**
+**HelpNest — Robust Full-Stack TypeScript Help Desk System (Node.JS, Express, React, Next.js, PostgreSQL, Prisma)**
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/e9107fc1-7698-4f35-8e46-48e53b7b57e0" />
 
