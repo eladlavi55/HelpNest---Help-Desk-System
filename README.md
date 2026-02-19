@@ -1,5 +1,5 @@
 # HelpNest - Help Desk System (TypeScript, Node.JS, Express, React, Next.js, PostgreSQL, Prisma)
-**HelpNest — Robust Full-Stack Multi-Tenant Support Ticketing System **
+**HelpNest — Robust Full-Stack Multi-Tenant Support Ticketing System**
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/e9107fc1-7698-4f35-8e46-48e53b7b57e0" />
 
