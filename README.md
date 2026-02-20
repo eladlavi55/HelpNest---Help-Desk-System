@@ -8,7 +8,7 @@
 ### **Frontend Development**
 - **React 18** with modern hooks and patterns
 - **Next.js 14** (App Router) with TypeScript strict mode
-- **Tailwind CSS** for responsive, mobile-first UI
+- **Tailwind CSS** for responsive, modern UI, suited for mobile.
 - Client-side routing and protected routes via middleware
 - Credential-based HTTP communication with cookie management
 - Session storage integration for workspace context
